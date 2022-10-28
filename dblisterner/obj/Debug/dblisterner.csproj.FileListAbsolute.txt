@@ -1,0 +1,12 @@
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\bin\Debug\dblisterner.exe.config
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\bin\Debug\dblisterner.exe
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\bin\Debug\dblisterner.pdb
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\obj\Debug\dblisterner.csproj.AssemblyReference.cache
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\obj\Debug\dblisterner.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\obj\Debug\dblisterner.csproj.CoreCompileInputs.cache
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\obj\Debug\dblisterner.csproj.CopyComplete
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\obj\Debug\dblisterner.exe
+C:\Users\bhagya\source\repos\dblisterner\dblisterner\obj\Debug\dblisterner.pdb
